@@ -12,10 +12,10 @@
 - `auto` = Auto Denoising Settting
 
 ### Transmitted Audio (Industrial Denoising OFF
-- Google Meet To Cloud (`src_gm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/3fiv8we5y6ofoutxa1agq2vc2onrc0gd
-- Google Meet To Phone (`src_gm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/h4qtwwzyzsbccpzofd7w9dye00olvv16
-- Zoom To Cloud (`src_zm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/i3n42m5vxmtphz3ko4oent9y9cbylqck
-- Zoom To Phone (`src_zm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/w45x9viyn6ugif32qa7vjvzi99onjhe1
+- Google Meet To Cloud (`src_gm_cloud_relay_low`):<br>https://cmu.box.com/shared/static/3fiv8we5y6ofoutxa1agq2vc2onrc0gd
+- Google Meet To Phone (`src_gm_phone_relay_low`):<br>https://cmu.box.com/shared/static/h4qtwwzyzsbccpzofd7w9dye00olvv16
+- Zoom To Cloud (`src_zm_cloud_relay_low`):<br>https://cmu.box.com/shared/static/i3n42m5vxmtphz3ko4oent9y9cbylqck
+- Zoom To Phone (`src_zm_phone_relay_low`):<br>https://cmu.box.com/shared/static/w45x9viyn6ugif32qa7vjvzi99onjhe1
 
 ### Transmitted Audio (Industrial Denoising ON)
 - Google Meet To Cloud (`src_gm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/do9pb9sscnq5js6omvmu0wymtysxifwz
